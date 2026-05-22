@@ -8,6 +8,7 @@ Este documento establece las reglas de convivencia, comunicación y estándares 
 | [Alvaro Andres Salazar Herrera] | Líder (Arquitecto) | `@AlvaroSaGit` |
 | [Leidy Esmeralda Duarte Prada] | Desarrollador | `@leidyesme` |
 | [Juan Manuel Rodriguez Carreño] | Desarrollador | `@Juan788800` |
+| [Yimmer Samith Duarte Plata] | Desarrollador | `@samith146` |
 
 ## 2. Canales de Comunicación
 Para mantener el orden y separar lo profesional de lo personal, usaremos los siguientes canales:
