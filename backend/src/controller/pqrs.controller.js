@@ -16,7 +16,7 @@ export const getPQRSporid = (req, res) => {
     if (!pqrs) {
         return res.status(404).json({ mensaje: "PQRS no encontrada" });
     }
-    // ✔️ CORREGIDO: Devolvemos 'pqrs' (la encontrada), no todo el arreglo
+
     res.json({ datos: pqrs }); 
 };
 
@@ -37,7 +37,7 @@ export const postPQRS = (req, res) => {
 
     listapqrs.push(nuevaPQRS);
     
-    // ✔️ CORREGIDO: Se eliminó la línea fantasma que estaba suelta aquí abajo
+    
     res.status(201).json({ mensaje: "PQRS registrada con éxito", datos: nuevaPQRS });
 };
 
